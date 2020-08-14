@@ -1,0 +1,2149 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+Unrecognized MATLAB option "nodispay".
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> Optimizing! PLEASE WAIT>>>>>>>>>>>>>>>
+>> Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.7975
+
+Parallel pool using the 'local' profile is shutting down.
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1         0.797499         
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.8561
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.8175
+
+Parallel pool using the 'local' profile is shutting down.
+     1            3         0.797499         initial simplex
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.7705
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.7429
+
+Parallel pool using the 'local' profile is shutting down.
+     2            5         0.742895         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.7222
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6849
+
+Parallel pool using the 'local' profile is shutting down.
+     3            7         0.684912         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6735
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6832
+
+Parallel pool using the 'local' profile is shutting down.
+     4            9         0.673516         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6455
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6471
+
+Parallel pool using the 'local' profile is shutting down.
+     5           11         0.645544         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6777
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6641
+
+Parallel pool using the 'local' profile is shutting down.
+     6           13         0.645544         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6500
+
+Parallel pool using the 'local' profile is shutting down.
+     7           14         0.645544         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6263
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6061
+
+Parallel pool using the 'local' profile is shutting down.
+     8           16         0.606112         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.6057
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.5941
+
+Parallel pool using the 'local' profile is shutting down.
+     9           18         0.594121         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.5339
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4791
+
+Parallel pool using the 'local' profile is shutting down.
+    10           20         0.479099         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.5326
+
+Parallel pool using the 'local' profile is shutting down.
+    11           21         0.479099         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4773
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.5681
+
+Parallel pool using the 'local' profile is shutting down.
+    12           23         0.477256         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4372
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4601
+
+Parallel pool using the 'local' profile is shutting down.
+    13           25         0.437211         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.5021
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4469
+
+Parallel pool using the 'local' profile is shutting down.
+    14           27         0.437211         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4793
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4429
+
+Parallel pool using the 'local' profile is shutting down.
+    15           29         0.437211         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4438
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4385
+
+Parallel pool using the 'local' profile is shutting down.
+    16           31         0.437211         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4464
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4374
+
+Parallel pool using the 'local' profile is shutting down.
+    17           33         0.437211         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4380
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4365
+
+Parallel pool using the 'local' profile is shutting down.
+    18           35         0.436536         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4429
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    19           37         0.436046         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4372
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4361
+
+Parallel pool using the 'local' profile is shutting down.
+    20           39         0.436046         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4369
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4361
+
+Parallel pool using the 'local' profile is shutting down.
+    21           41         0.436046         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4361
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    22           43         0.436029         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4361
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    23           45         0.436011         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4362
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    24           47         0.435996         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    25           49         0.435994         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    26           51         0.435987         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    27           53         0.435974         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    28           55         0.435974         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    29           57         0.435974         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    30           59         0.435974         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    31           61         0.435974         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    32           63         0.435974         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    33           64         0.435974         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    34           66         0.435972         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    35           68         0.435971         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    36           70         0.435971         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    37           72         0.435971         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    38           74         0.435971         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    39           76         0.435971         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    40           78         0.435971         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    41           80         0.435971         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    42           82         0.435971         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    43           84          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    44           86          0.43597         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    45           88          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    46           90          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    47           92          0.43597         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    48           94          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    49           96          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    50           98          0.43597         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    51          100          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    52          102          0.43597         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    53          104          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    54          106          0.43597         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    55          108          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    56          110          0.43597         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    57          112          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    58          114          0.43597         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    59          116          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    60          118          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    61          120          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    62          122          0.43597         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    63          124          0.43597         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    64          126          0.43597         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    65          128          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    66          130          0.43597         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    67          132          0.43597         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    68          134         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    69          136         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    70          138         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    71          140         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    72          142         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    73          144         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    74          146         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    75          148         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    76          150         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    77          152         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    78          154         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    79          156         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    80          158         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    81          160         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    82          162         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    83          164         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    84          166         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    85          168         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    86          170         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    87          172         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    88          174         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    89          176         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    90          178         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    91          180         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    92          182         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    93          184         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    94          186         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    95          188         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    96          190         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    97          192         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    98          194         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+    99          196         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   100          197         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   101          199         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   102          201         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   103          203         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   104          205         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   105          207         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   106          209         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   107          211         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   108          213         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   109          215         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   110          217         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   111          219         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   112          221         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   113          223         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   114          225         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   115          227         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   116          228         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   117          230         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   118          232         0.435969         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   119          234         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   120          236         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   121          238         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   122          240         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   123          242         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   124          244         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   125          245         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   126          247         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   127          249         0.435969         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   128          251         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   129          253         0.435969         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   130          255         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   131          257         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   132          259         0.435969         expand
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   133          261         0.435969         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   134          263         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   135          264         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   136          266         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   137          268         0.435969         contract outside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   138          270         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   139          271         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   140          272         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   141          274         0.435969         contract inside
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   142          275         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   143          277         0.435969         reflect
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+
+Err =
+
+    0.4360
+
+Parallel pool using the 'local' profile is shutting down.
+   144          279         0.435969         contract inside
+ 
+Optimization terminated:
+ the current x satisfies the termination criteria using OPTIONS.TolX of 1.000000e-03 
+ and F(X) satisfies the convergence criteria using OPTIONS.TolFun of 1.000000e-03 
+
+
+x =
+
+   1.0e+03 *
+
+    7.0720    1.2670
+
+
+fval =
+
+    0.4360
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+    iterations: 144
+     funcCount: 279
+     algorithm: 'Nelder-Mead simplex direct search'
+       message: 'Optimization terminated:...'
+
+>> 
+TimeCost =
+
+   2.6475e+04
+
+>> 

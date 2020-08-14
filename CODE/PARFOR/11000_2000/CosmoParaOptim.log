@@ -1,0 +1,1326 @@
+MATLAB is selecting SOFTWARE OPENGL rendering.
+Unrecognized MATLAB option "nodispay".
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> Optimizing! PLEASE WAIT>>>>>>>>>>>>>>>
+>>        11000        2000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+[Warning: The cluster reported an error while deleting an unavailable job.  This
+job may already have been deleted.] 
+[> In parallel.internal.cluster.CJSJobMethods.destroyOneJob (line 76)
+  In parallel.job.CJSCommunicatingJob/destroyOneJob (line 94)
+  In parallel.Job/delete (line 1062)
+  In parallel.Cluster/hDeleteOneJob (line 847)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pStopLabsAndDisconnect (line 583)
+  In parallel.internal.pool.InteractiveClient/stopLabsAndDisconnect (line 434)
+  In parallel.Pool/delete (line 61)
+  In ObjFunc (line 65)
+  In fminsearch (line 189)] 
+ 
+ Iteration   Func-count     min f(x)         Procedure
+     0            1         0.845771         
+       11550        2000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+       11000        2100
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+[Warning: The cluster failed to cancel the job execution. The error was: Unable
+to read file '/home/zxwu/.matlab/local_cluster_jobs/R2015b/Job710.in.mat'. No
+such file or directory.] 
+[> In parallel.internal.cluster.CJSJobMethods.cancelOneJob (line 53)
+  In parallel.job.CJSCommunicatingJob/cancelOneJob (line 99)
+  In parallel.Job>@(j1)cancelOneJob(j1,cancelException)
+  In parallel.Job/cancel (line 1125)
+  In parallel.Cluster/hDeleteOneJob (line 832)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pStopLabsAndDisconnect (line 583)
+  In parallel.internal.pool.InteractiveClient/stopLabsAndDisconnect (line 434)
+  In parallel.Pool/delete (line 61)
+  In ObjFunc (line 65)
+  In fminsearch (line 253)] 
+     1            3         0.845771         initial simplex
+       10450        2100
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+        9900        2150
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+[Warning: The cluster reported an error while deleting an unavailable job.  This
+job may already have been deleted.] 
+[> In parallel.internal.cluster.CJSJobMethods.destroyOneJob (line 76)
+  In parallel.job.CJSCommunicatingJob/destroyOneJob (line 94)
+  In parallel.Job/delete (line 1062)
+  In parallel.Cluster/hDeleteOneJob (line 847)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pStopLabsAndDisconnect (line 583)
+  In parallel.internal.pool.InteractiveClient/stopLabsAndDisconnect (line 434)
+  In parallel.Pool/delete (line 61)
+  In ObjFunc (line 65)
+  In fminsearch (line 314)] 
+     2            5         0.822749         expand
+        9900        2050
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+        9350        2025
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     3            7         0.787803         expand
+        8250        2175
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    6.8750    2.2625
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     4            9         0.704799         expand
+   1.0e+03 *
+
+    6.3250    2.1375
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    4.5375    2.1313
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     5           11         0.588114         expand
+   1.0e+03 *
+
+    2.0625    2.3687
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     6           12         0.588114         reflect
+   1.0e+03 *
+
+   -0.2750    2.2375
+
+   1.0e+03 *
+
+    5.0875    2.2563
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     7           14         0.588114         contract inside
+   1.0e+03 *
+
+    1.5125    2.2437
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+   -0.2750    2.2375
+
+     8           16         0.553358         reflect
+   1.0e+03 *
+
+    3.9875    2.0063
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+        4950        1825
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+     9           18         0.528704         expand
+   1.0e+03 *
+
+    1.9250    1.9375
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    0.6188    1.8406
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    10           20         0.439225         expand
+   1.0e+03 *
+
+    4.0563    1.4219
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.3281    1.0109
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    11           22         0.342567         expand
+   1.0e+03 *
+
+    0.9969    1.0266
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+ -979.6875  627.3438
+
+    12           24         0.322731         reflect
+   1.0e+03 *
+
+    5.7062    0.1969
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+        8250        -625
+
+    13           26         0.223409         reflect
+   1.0e+03 *
+
+    1.3750    0.2125
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+[Warning: The cluster failed to cancel the job execution. The error was: Unable
+to read file '/home/zxwu/.matlab/local_cluster_jobs/R2015b/Job1024.in.mat'. No
+such file or directory.] 
+[> In parallel.internal.cluster.CJSJobMethods.cancelOneJob (line 53)
+  In parallel.job.CJSCommunicatingJob/cancelOneJob (line 99)
+  In parallel.Job>@(j1)cancelOneJob(j1,cancelException)
+  In parallel.Job/cancel (line 1125)
+  In parallel.Cluster/hDeleteOneJob (line 832)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pStopLabsAndDisconnect (line 583)
+  In parallel.internal.pool.InteractiveClient/stopLabsAndDisconnect (line 434)
+  In parallel.Pool/delete (line 61)
+  In ObjFunc (line 65)
+  In fminsearch (line 308)] 
+    14           27         0.223409         reflect
+   1.0e+03 *
+
+    6.0844   -0.6172
+
+   1.0e+03 *
+
+    2.2687    0.6156
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    15           29         0.223409         contract inside
+   1.0e+03 *
+
+    4.8125   -0.2062
+
+   1.0e+03 *
+
+    2.9047    0.4102
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    16           31         0.223409         contract inside
+   1.0e+03 *
+
+    7.2359    0.3945
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    2.8402    0.2580
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    17           33         0.223409         contract inside
+   1.0e+03 *
+
+    5.7707    0.3490
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    18           34         0.223409         reflect
+   1.0e+03 *
+
+    8.5723    0.1357
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    4.3216    0.3416
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    19           36         0.223409         contract inside
+   1.0e+03 *
+
+    7.1554    0.2043
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.0300    0.3073
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    20           38         0.223409         contract inside
+   1.0e+03 *
+
+    4.9656    0.1551
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.1669    0.2036
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    21           40         0.223409         contract outside
+   1.0e+03 *
+
+    5.8431    0.0932
+
+   1.0e+03 *
+
+    5.2333    0.2537
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    22           42         0.223409         contract inside
+   1.0e+03 *
+
+    5.7727    0.2470
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.6212    0.2362
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    23           44         0.223409         contract outside
+   1.0e+03 *
+
+    6.0942    0.1793
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.4485    0.2351
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    24           46         0.223409         contract inside
+   1.0e+03 *
+
+    5.5335    0.1958
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.4897    0.1757
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    25           48         0.223159         reflect
+   1.0e+03 *
+
+    5.7913    0.1576
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.9627    0.1188
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    26           50         0.222783         reflect
+   1.0e+03 *
+
+    5.6186    0.1565
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.5747    0.1364
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    27           52         0.222379         reflect
+   1.0e+03 *
+
+    5.8763    0.1183
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    28           53         0.222379         reflect
+   1.0e+03 *
+
+    5.7036    0.1172
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.6597    0.0971
+
+    29           55         0.221672         reflect
+   1.0e+03 *
+
+    5.4458    0.1555
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7687    0.1276
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    30           57         0.221672         contract inside
+   1.0e+03 *
+
+    5.8537    0.0883
+
+   1.0e+03 *
+
+    5.6773    0.1395
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    31           59         0.221672         contract inside
+   1.0e+03 *
+
+    5.6122    0.1291
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7296    0.1280
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    32           61         0.221672         contract inside
+   1.0e+03 *
+
+    5.7558    0.1057
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7950    0.0889
+
+    33           63         0.221638         reflect
+   1.0e+03 *
+
+    5.7298    0.0950
+
+   1.0e+03 *
+
+    5.7296    0.1197
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    34           65         0.221638         contract inside
+   1.0e+03 *
+
+    5.7298    0.1033
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7298    0.0950
+
+    35           67         0.221546         reflect
+   1.0e+03 *
+
+    5.7820    0.0918
+
+   1.0e+03 *
+
+    5.7232    0.1109
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    36           69         0.221546         contract inside
+   1.0e+03 *
+
+    5.6971    0.1084
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    37           70         0.221546         reflect
+   1.0e+03 *
+
+    5.7037    0.1008
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    38           71         0.221546         reflect
+   1.0e+03 *
+
+    5.7363    0.0956
+
+   1.0e+03 *
+
+    5.7069    0.1052
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    39           73         0.221532         contract inside
+   1.0e+03 *
+
+    5.7330    0.1077
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7110    0.1025
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    40           75         0.221523         contract inside
+   1.0e+03 *
+
+    5.6882    0.1044
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7194    0.1036
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    41           77         0.221523         contract inside
+   1.0e+03 *
+
+    5.6986    0.1041
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7142    0.1037
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    42           79         0.221523         contract inside
+   1.0e+03 *
+
+    5.7183    0.1010
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7239    0.0989
+
+    43           81         0.221517         reflect
+   1.0e+03 *
+
+    5.7151    0.0998
+
+   1.0e+03 *
+
+    5.7144    0.1027
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    44           83         0.221517         contract inside
+   1.0e+03 *
+
+    5.7149    0.1008
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7151    0.0998
+
+    45           85         0.221514         reflect
+   1.0e+03 *
+
+    5.7221    0.0993
+
+   1.0e+03 *
+
+    5.7138    0.1017
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    46           87         0.221514         contract inside
+   1.0e+03 *
+
+    5.7193    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7221    0.0993
+
+    47           89         0.221512         reflect
+   1.0e+03 *
+
+    5.7160    0.0999
+
+   1.0e+03 *
+
+    5.7177    0.1007
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    48           91         0.221512         contract inside
+   1.0e+03 *
+
+    5.7222    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    49           92         0.221512         reflect
+   1.0e+03 *
+
+    5.7238    0.0994
+
+   1.0e+03 *
+
+    5.7192    0.1004
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    50           94         0.221512         contract inside
+   1.0e+03 *
+
+    5.7164    0.1004
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7135    0.1006
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    51           96         0.221511         reflect
+   1.0e+03 *
+
+    5.7165    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7152    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    52           98         0.221511         reflect
+   1.0e+03 *
+
+    5.7136    0.1005
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7179    0.1002
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    53          100         0.221511         contract inside
+   1.0e+03 *
+
+    5.7180    0.0999
+
+   1.0e+03 *
+
+    5.7168    0.1003
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    54          102         0.221511         contract inside
+   1.0e+03 *
+
+    5.7154    0.1003
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7173    0.1002
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    55          104         0.221511         contract inside
+   1.0e+03 *
+
+    5.7170    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.0999
+
+    56          106          0.22151         reflect
+   1.0e+03 *
+
+    5.7178    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    57          107          0.22151         reflect
+   1.0e+03 *
+
+    5.7175    0.0999
+
+   1.0e+03 *
+
+    5.7173    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    58          109          0.22151         contract inside
+   1.0e+03 *
+
+    5.7166    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7175    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    59          111          0.22151         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+   1.0e+03 *
+
+    5.7173    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    60          113          0.22151         contract inside
+   1.0e+03 *
+
+    5.7168    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    61          114          0.22151         reflect
+   1.0e+03 *
+
+    5.7166    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    62          116          0.22151         contract inside
+   1.0e+03 *
+
+    5.7173    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1001
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    63          118          0.22151         contract outside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    64          120          0.22151         reflect
+   1.0e+03 *
+
+    5.7169    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    65          122          0.22151         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    66          123          0.22151         reflect
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    67          125         0.221509         expand
+   1.0e+03 *
+
+    5.7171    0.1000
+
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    68          127         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    69          128         0.221509         reflect
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    70          130         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    71          132         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    72          134         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    73          136         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    74          138         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    75          140         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+    76          142         0.221509         reflect
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    77          144         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    78          146         0.221509         reflect
+   1.0e+03 *
+
+    5.7172    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+    79          148         0.221509         reflect
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    80          150         0.221509         reflect
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    81          152         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    82          154         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    83          156         0.221509         expand
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    84          158         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    85          160         0.221509         contract outside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    86          162         0.221509         expand
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    87          164         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+    88          166         0.221509         reflect
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    89          168         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    90          170         0.221509         contract inside
+   1.0e+03 *
+
+    5.7172    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    91          172         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7172    0.1000
+
+    92          174         0.221509         reflect
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    93          176         0.221509         expand
+   1.0e+03 *
+
+    5.7171    0.1000
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    94          178         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    95          180         0.221509         expand
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    96          182         0.221509         expand
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    97          183         0.221509         reflect
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    98          185         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+    99          187         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   100          188         0.221509         reflect
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... [Warning: The cluster failed to cancel the job execution. The error was: Unable
+to read file '/home/zxwu/.matlab/local_cluster_jobs/R2015b/Job1161.in.mat'. No
+such file or directory.] 
+[> In parallel.internal.cluster.CJSJobMethods.cancelOneJob (line 53)
+  In parallel.job.CJSCommunicatingJob/cancelOneJob (line 99)
+  In parallel.Job>@(j1)cancelOneJob(j1,cancelException)
+  In parallel.Job/cancel (line 1125)
+  In parallel.Cluster/hDeleteOneJob (line 832)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pRemoveOldJobs (line 471)
+  In parallel.internal.pool.InteractiveClient/start (line 311)
+  In parallel.Pool>iStartClient (line 547)
+  In parallel.Pool.hBuildPool (line 439)
+  In parallel.internal.pool.doParpool (line 15)
+  In parpool (line 89)
+  In ObjFunc (line 27)
+  In fminsearch (line 308)] 
+[Warning: The cluster reported an error while deleting an unavailable job.  This
+job may already have been deleted.] 
+[> In parallel.internal.cluster.CJSJobMethods.destroyOneJob (line 76)
+  In parallel.job.CJSCommunicatingJob/destroyOneJob (line 94)
+  In parallel.Job/delete (line 1062)
+  In parallel.Cluster/hDeleteOneJob (line 847)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pRemoveOldJobs (line 471)
+  In parallel.internal.pool.InteractiveClient/start (line 311)
+  In parallel.Pool>iStartClient (line 547)
+  In parallel.Pool.hBuildPool (line 439)
+  In parallel.internal.pool.doParpool (line 15)
+  In parpool (line 89)
+  In ObjFunc (line 27)
+  In fminsearch (line 308)] 
+connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... [Warning: Variable 'apitag' not found.] 
+[> In parallel.internal.cluster.FileSerializer>iLoadMat (line 286)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 246)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 428)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 69)
+  In parallel.internal.customattr.GetSetImpl>iGetProperties (line 262)
+  In parallel.internal.customattr.GetSetImpl>iGetAllProperties (line 240)
+  In parallel.internal.customattr.GetSetImpl.getImpl (line 124)
+  In parallel.internal.customattr.CustomGetSet/get (line 30)
+  In parallel.internal.customattr.WorkUnitFinder/filter (line 28)
+  In parallel.internal.customattr.WorkUnitFinder.find (line 53)
+  In parallel.Cluster/findJob>iIsMatchingJobNoError (line 117)
+  In parallel.Cluster/findJob>@(x)iIsMatchingJobNoError(x,varargin{:}) (line 106)
+  In parallel.Cluster/findJob>iFindSingleJobFromArrayNoError (line 106)
+  In parallel.Cluster/findJob>@(x)iFindSingleJobFromArrayNoError(x,varargin{:}) (line 86)
+  In parallel.Cluster/findJob (line 86)
+  In parallel.internal.pool.InteractiveClient>@(sched,tag,username)sched.findJob('ApiTag',tag,'Username',username) (line 502)
+  In parallel.internal.pool.InteractiveClient/pRemoveOldJobs (line 459)
+  In parallel.internal.pool.InteractiveClient/start (line 311)
+  In parallel.Pool>iStartClient (line 547)
+  In parallel.Pool.hBuildPool (line 439)
+  In parallel.internal.pool.doParpool (line 15)
+  In parpool (line 89)
+  In ObjFunc (line 27)
+  In fminsearch (line 349)] 
+connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   101          190         0.221509         contract inside
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+[Warning: The cluster failed to cancel the job execution. The error was: Unable
+to read file '/home/zxwu/.matlab/local_cluster_jobs/R2015b/Job1165.in.mat'. No
+such file or directory.] 
+[> In parallel.internal.cluster.CJSJobMethods.cancelOneJob (line 53)
+  In parallel.job.CJSCommunicatingJob/cancelOneJob (line 99)
+  In parallel.Job>@(j1)cancelOneJob(j1,cancelException)
+  In parallel.Job/cancel (line 1125)
+  In parallel.Cluster/hDeleteOneJob (line 832)
+  In parallel.internal.pool.InteractiveClient>iDeleteJobs (line 848)
+  In parallel.internal.pool.InteractiveClient/pStopLabsAndDisconnect (line 583)
+  In parallel.internal.pool.InteractiveClient/stopLabsAndDisconnect (line 434)
+  In parallel.Pool/delete (line 61)
+  In ObjFunc (line 65)
+  In fminsearch (line 308)] 
+   1.0e+03 *
+
+    5.7171    0.1000
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 24 workers.
+Parallel pool using the 'local' profile is shutting down.
+   102          192         0.221509         contract inside
+ 
+Optimization terminated:
+ the current x satisfies the termination criteria using OPTIONS.TolX of 1.000000e-03 
+ and F(X) satisfies the convergence criteria using OPTIONS.TolFun of 1.000000e-03 
+
+
+x =
+
+   1.0e+03 *
+
+    5.7171    0.1000
+
+
+fval =
+
+    0.2215
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+    iterations: 102
+     funcCount: 192
+     algorithm: 'Nelder-Mead simplex direct search'
+       message: 'Optimization terminated:...'
+
+>> 
+TimeCost =
+
+   2.6552e+04
+
+>> 

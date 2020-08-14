@@ -1,0 +1,25 @@
+anion0001	NTF2
+anion0002	BF4
+anion0003	PF6
+anion0004	NFO
+anion0005	ClO4
+anion0006	AC
+anion0007	NO3
+anion0008	TFA
+anion0009	TFO
+anion0010	Cl
+anion0011	SCN
+anion0012	DCA
+anion0013	MeSO3
+anion0014	HSO4
+anion0015	BCN4
+anion0016	BETI
+anion0017	Tosylate
+anion0018	FAP
+anion0019	C8SO4
+anion0020	MeSO4
+anion0021	MePO3
+anion0022	TriIM
+anion0023	TetraIM
+anion0024	IM
+

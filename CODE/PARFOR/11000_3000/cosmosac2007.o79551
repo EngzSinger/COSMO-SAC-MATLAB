@@ -1,0 +1,5 @@
++ mFile=CosmoParaOptim.m
++ export matlabroot=/opt/MATLAB/R2015b/bin
++ matlabroot=/opt/MATLAB/R2015b/bin
++ cd /home/zxwu/WORK_SPACE/COSMO_SAC/CODE/PARFOR/11000_3000
++ /opt/MATLAB/R2015b/bin/matlab -nodispay -nosplash

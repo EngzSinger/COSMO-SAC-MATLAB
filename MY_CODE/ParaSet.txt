@@ -1,0 +1,18 @@
+SolutePath	/home/zxwu/WORK_SPACE/COSMO_SAC/DATABASE/COSMO/SOLUTE/
+CationPath	/home/zxwu/WORK_SPACE/COSMO_SAC/DATABASE/COSMO/CATION/
+AnionPath	/home/zxwu/WORK_SPACE/COSMO_SAC/DATABASE/COSMO/ANION/
+Aeff_2002	7.50
+Aeff_2007	7.25
+IL_Flag  	1
+u2A     	0.529177249
+rCovalent	1.9
+sigma0  	0.007
+vnorm   	66.69
+anorm    	79.53
+z       	10.0
+rgas    	0.001987
+f_decay    	3.57
+ResultPath	/home/zxwu/WORK_SPACE/COSMO_SAC/RESULT/
+Alpha   	9392.51
+Chb       	3631.760
+
